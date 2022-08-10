@@ -1,10 +1,6 @@
 # git-playground
 for git practice
 
-<<<<<<< HEAD
-=======
-## Merge 测试
->>>>>>> b685b167b5f58704d7fc641b6e0272d7b668296e
 ## git Commits 提交记录出现 Merge branch 'main' of ...
 ### 原因
 当多人合作开发一个项目时，本地仓库落后于远程仓库，执行 `git push`
